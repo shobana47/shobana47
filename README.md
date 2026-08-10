@@ -104,16 +104,6 @@ I'm Shobana G, an aspiring AI & ML Engineer passionate about building practical 
 - **AI Job Extractor** — LLM-powered job listing extraction and structured data processing.
 ---
 
-# 📚 Workshops
-
-### Search Engine Optimization (SEO)
-**United Technology**
-
-Hands-on workshop covering keyword research, on-page optimization,
-and search ranking fundamentals.
-
----
-
 # 📜 Certifications
 
 | Certification | Platform |
@@ -147,4 +137,16 @@ and search ranking fundamentals.
 
 <p align="center">
   AI • Machine Learning • Software Engineering • Data Analytics
+</p>
+---
+## 📚 Currently Learning
+
+- Generative AI & LLMs
+- RAG & AI Agents
+- Spring Boot & Backend Development
+- Advanced Machine Learning
+- Data Analytics & Power BI
+---
+<p align="center">
+  <i>"Keep going. Your story is still being written."</i>
 </p>
