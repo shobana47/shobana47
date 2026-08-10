@@ -84,7 +84,9 @@ I'm Shobana G, an aspiring AI & ML Engineer passionate about building practical 
 ### 🏢 ERP & SAP
 
 `SAP ERP` `FICO` `MM`
+
 ---
+
 # 📊 Quick Stats
 
 | 🎓 CGPA | 🚀 Projects | 💼 Internships | 📜 Certifications |
@@ -127,8 +129,10 @@ I'm Shobana G, an aspiring AI & ML Engineer passionate about building practical 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobana47&theme=transparent&hide_border=true" />
 </p>
+
 ---
-## 📚 Currently Learning
+
+# 📚 Currently Learning
 
 - Generative AI & LLMs
 - RAG & AI Agents
