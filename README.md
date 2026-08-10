@@ -63,31 +63,24 @@ Bio-Mathematics stream.
 
 ---
 
-# 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### 💻 Programming Languages
+### 🚀 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 AI / ML
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn" />
 </p>
 
 ### 🧠 Generative AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=openai" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/LLMs-14213D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-C89B3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-14213D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-C89B3C?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### 📊 Data Analytics
@@ -96,33 +89,27 @@ Bio-Mathematics stream.
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Data Analysis` `Data Visualization`
-
-### 🌐 Backend & Development
+### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 </p>
 
-### 🗄️ Databases
+### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
-### 🧰 Tools & Platforms
+### 🧩 Core CS
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
-
-### 🧩 Core Computer Science
-
-`Data Structures` · `Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks`
 
 ### 🏢 ERP & SAP
 
-`SAP ERP` · `FICO` · `MM`
+**SAP ERP · FICO · MM**
 # 💼 Experience
 
 ### 🤖 amasQIS.ai — Artificial Intelligence Intern
