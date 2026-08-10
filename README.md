@@ -129,7 +129,7 @@ I'm Shobana G, an aspiring AI & ML Engineer passionate about building practical 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobana47&theme=transparent&hide_border=true" />
 </p>
 ---
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 - Generative AI & LLMs
 - RAG & AI Agents
