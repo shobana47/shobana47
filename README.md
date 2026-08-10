@@ -85,8 +85,7 @@ I'm Shobana G, an aspiring AI & ML Engineer passionate about building practical 
 
 `SAP ERP` `FICO` `MM`
 ---
-
-## 📊 Quick Stats
+# 📊 Quick Stats
 
 | 🎓 CGPA | 🚀 Projects | 💼 Internships | 📜 Certifications |
 |:---:|:---:|:---:|:---:|
