@@ -94,8 +94,6 @@ I'm Shobana G, an aspiring AI & ML Engineer passionate about building practical 
 
 # 🚀 Projects
 
-## 🚀 Projects
-
 - **AI Docker Health Dashboard** — Natural-language Docker monitoring with real-time container health insights.
 - **Gemini Voice Chatbot** — Voice-based AI assistant powered by Gemini.
 - **ShobBridge AI** — AI-powered campus recruitment and skill-gap analysis system.
