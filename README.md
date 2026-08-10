@@ -21,39 +21,69 @@ I'm Shobana G, an aspiring AI & ML Engineer passionate about building practical 
 🚀 Enjoy building real-world projects and learning new technologies
 
 ---
-🌐 Connect With Me
-────────────────────────
+## 🌐 Connect With Me
 
-[ LinkedIn ] [ GitHub ] [ Gmail ]
+<p align="left">
+  <a href="https://linkedin.com/in/shobana-g-tech">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/shobana47">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:shobikrishnan2005@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
+---
 
-💻 Tech Stack
-────────────────────────
+# 💻 Tech Stack
 
-🚀 Frontend
-[ HTML ] [ CSS ] [ JS ] [ React ] [ Next ] [ Tailwind ]
+### 🚀 Frontend
 
-⚙️ Backend
-[ Java ] [ Spring ]
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
 
-🗄️ Database
-[ PostgreSQL ] [ MySQL ] [ MongoDB ]
+### ⚙️ Backend
 
-🧠 AI / Machine Learning
-[ Python ] [ Scikit-learn ]
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
 
-📊 Data Analytics
-Pandas · NumPy · Matplotlib · Seaborn · Power BI · Excel
+### 🗄️ Database
 
-🤖 Generative AI
-LLMs · Prompt Engineering · RAG · AI Agents · Gemini · Groq
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+</p>
 
-🛠️ Tools
-[ Git ] [ GitHub ] [ VS Code ] [ IntelliJ ] [ Postman ] [ Docker ]
+### 🧠 AI / Machine Learning
 
-🏢 ERP & SAP
-SAP ERP · FICO · MM
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn" />
+</p>
 
+### 📊 Data Analytics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Excel`
+
+### 🤖 Generative AI
+
+`LLMs` `Prompt Engineering` `RAG` `AI Agents` `Gemini` `Groq`
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker" />
+</p>
+
+### 🏢 ERP & SAP
+
+`SAP ERP` `FICO` `MM`
 ## 📊 Quick Stats
 
 | 🎓 CGPA | 🚀 Projects | 💼 Internships | 📜 Certifications |
@@ -107,26 +137,6 @@ and search ranking fundamentals.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobana47&theme=transparent&hide_border=true" />
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:shobanaa.work@gmail.com">
-  <img src="https://img.shields.io/badge/Email-shobanaa.work%40gmail.com-14213D?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/shobana47">
-  <img src="https://img.shields.io/badge/GitHub-shobana47-14213D?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/shobana-g-tech">
-  <img src="https://img.shields.io/badge/LinkedIn-Shobana%20G-C89B3C?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 </p>
 
 ---
