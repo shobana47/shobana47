@@ -11,17 +11,15 @@
 
 ---
 
-👋 About Me
+## 👋 About Me
 
-I'm Shobana G, an aspiring AI & ML Engineer passionate about building practical and impactful software solutions.
-
-🎓 CSE (AI & ML) student
-💻 Interested in AI/ML, Java, and Data Analytics
-🤖 Exploring Generative AI, LLMs, RAG, and AI Agents
-🚀 Enjoy building real-world projects and learning new technologies
+🎓 CSE (AI & ML) student <br>
+💻 Interested in AI/ML, Java, and Data Analytics <br>
+🤖 Exploring Generative AI, LLMs, RAG, and AI Agents <br>
+🚀 Passionate about building real-world projects and learning new technologies
 
 ---
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/shobana-g-tech">
