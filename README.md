@@ -63,43 +63,66 @@ Bio-Mathematics stream.
 
 ---
 
-# 🛠️ Skills
+# 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
-`Java` `Python` `C` `C++`
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+</p>
 
-### Database Technologies
+### 🤖 AI / Machine Learning
 
-`MongoDB` `PostgreSQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
 
-### AI & Machine Learning
+### 🧠 Generative AI
 
-`Machine Learning` `Data Analysis` `Data Preprocessing` `Data Visualization`
+<p>
+  <img src="https://skillicons.dev/icons?i=openai" />
+</p>
 
-### Python Libraries
+<p>
+  <img src="https://img.shields.io/badge/LLMs-14213D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-C89B3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-14213D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-C89B3C?style=for-the-badge" />
+</p>
 
-`Pandas` `NumPy` `Matplotlib` `Seaborn`
+### 📊 Data Analytics
 
-### Generative AI
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-`Large Language Models` `Prompt Engineering` `RAG` `AI Agents`
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Data Analysis` `Data Visualization`
 
-### Tools & Platforms
+### 🌐 Backend & Development
 
-`Docker` `Git` `GitHub` `Excel` `Power BI`
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi" />
+</p>
 
-### Core Computer Science
+### 🗄️ Databases
 
-`Data Structures` `Algorithms` `OOP` `DBMS`  
-`Operating Systems` `Computer Networks`
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+</p>
 
-### ERP & SAP
+### 🧰 Tools & Platforms
 
-`SAP ERP` `FICO` `MM`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+</p>
 
----
+### 🧩 Core Computer Science
 
+`Data Structures` · `Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks`
+
+### 🏢 ERP & SAP
+
+`SAP ERP` · `FICO` · `MM`
 # 💼 Experience
 
 ### 🤖 amasQIS.ai — Artificial Intelligence Intern
