@@ -9,35 +9,50 @@
   with a focus on clean engineering and real-world impact.
 </p>
 
-<p align="center">
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/Download-Resume-14213D?style=for-the-badge" />
-  </a>
-  <a href="#certifications">
-    <img src="https://img.shields.io/badge/View-Certifications-C89B3C?style=for-the-badge" />
-  </a>
-  <a href="#-connect-with-me">
-    <img src="https://img.shields.io/badge/Contact-Me-14213D?style=for-the-badge" />
-  </a>
-</p>
-
 ---
 
-## 👩‍💻 About Me
+👋 About Me
 
-Curious learner, passionate developer, and lifelong problem solver.
+I'm Shobana G, an aspiring AI & ML Engineer passionate about building practical and impactful software solutions.
 
-I enjoy turning ideas into software that creates real impact. My interests span
-Java development, backend technologies, databases, AI/ML, and building applications
-that improve user experiences.
-
-Every project is an opportunity to learn something new, collaborate with others,
-and become a better engineer — from clean data pipelines to production-grade APIs.
-
-Currently focused on **AI-powered systems, LLM-driven interfaces, RAG pipelines,
-AI agents, and production-quality full-stack applications.**
+🎓 CSE (AI & ML) student
+💻 Interested in AI/ML, Java, and Data Analytics
+🤖 Exploring Generative AI, LLMs, RAG, and AI Agents
+🚀 Enjoy building real-world projects and learning new technologies
 
 ---
+🌐 Connect With Me
+────────────────────────
+
+[ LinkedIn ] [ GitHub ] [ Gmail ]
+
+
+💻 Tech Stack
+────────────────────────
+
+🚀 Frontend
+[ HTML ] [ CSS ] [ JS ] [ React ] [ Next ] [ Tailwind ]
+
+⚙️ Backend
+[ Java ] [ Spring ]
+
+🗄️ Database
+[ PostgreSQL ] [ MySQL ] [ MongoDB ]
+
+🧠 AI / Machine Learning
+[ Python ] [ Scikit-learn ]
+
+📊 Data Analytics
+Pandas · NumPy · Matplotlib · Seaborn · Power BI · Excel
+
+🤖 Generative AI
+LLMs · Prompt Engineering · RAG · AI Agents · Gemini · Groq
+
+🛠️ Tools
+[ Git ] [ GitHub ] [ VS Code ] [ IntelliJ ] [ Postman ] [ Docker ]
+
+🏢 ERP & SAP
+SAP ERP · FICO · MM
 
 ## 📊 Quick Stats
 
@@ -47,195 +62,16 @@ AI agents, and production-quality full-stack applications.**
 
 ---
 
-## 🎓 Education
-
-### Bachelor of Engineering — Computer Science (AI & ML)
-**Rathinam Technical Campus, Coimbatore**  
-**2023 – 2027**
-
-Focused on **AI & ML, software development, databases, and web technologies.**
-
-### Higher Secondary Education
-**N.G.N.G. Higher Secondary School, Pollachi**  
-**2021 – 2023**
-
-Bio-Mathematics stream.
-
----
-
-## 💻 Tech Stack
-
-### 🚀 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
-</p>
-
-### 🤖 AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn" />
-</p>
-
-### 🧠 Generative AI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### 📊 Data Analytics
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
-</p>
-
-### 🧩 Core CS
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
-</p>
-
-### 🏢 ERP & SAP
-
-**SAP ERP · FICO · MM**
-# 💼 Experience
-
-### 🤖 amasQIS.ai — Artificial Intelligence Intern
-
-Built foundational expertise across Artificial Intelligence and Machine Learning
-workflows through hands-on projects. Strengthened analytical and problem-solving
-skills while contributing to AI-driven initiatives.
-
-**Skills:** `Artificial Intelligence` `Machine Learning` `Python`
-
----
-
-### 📊 IDigitalPreneur — Data Specialist
-
-Monitored Instagram analytics for **2 brand accounts** and tracked weekly
-performance metrics. Increased content reach by **40%** through data-driven
-posting strategies and delivered client-ready reports using Google Sheets,
-charts, and conditional formatting.
-
-**Skills:** `Data Analysis` `Google Sheets` `Reporting`
-
----
-
-### 📈 Employment Express Verband LLP — Data Analyst
-
-Worked with **Excel, Python, and Power BI** for data cleaning, analysis,
-and visualization. Generated actionable insights from real-world datasets
-and developed dashboards for stakeholder review.
-
-**Skills:** `Excel` `Python` `Power BI`
-
----
-
-### 🏏 YBI Foundation — AI/ML with Data Science
-
-Analyzed **15+ IPL datasets** using Pandas and Seaborn to extract performance
-insights. Designed **8+ interactive dashboards** and automated preprocessing
-scripts that reduced manual effort by **30%**.
-
-**Skills:** `Python` `Pandas` `Seaborn` `Data Science`
-
----
-
-### ☕ CodSoft — Software Intern
-
-Built a Java Student Grade Calculator supporting multiple grading schemes
-and a timed quiz application with real-time countdown and scoring logic.
-
-**Skills:** `Java` `OOP` `Problem Solving`
-
----
-
 # 🚀 Projects
 
-## 🤖 AI Docker Health Dashboard
+## 🚀 Projects
 
-Turns plain-English questions into live Docker commands and provides
-real-time container health insights.
-
-**Tech:**  
-`Python` `Streamlit` `Docker SDK` `Groq API` `NLP`
-
-[View on GitHub](YOUR_DOCKER_PROJECT_LINK)
-
----
-
-## 🎙️ Gemini Voice Chatbot
-
-Hands-free AI assistant that listens, processes queries using Gemini,
-and responds through speech.
-
-**Tech:**  
-`Python` `Streamlit` `SpeechRecognition` `TTS` `Gemini API`
-
-[View on GitHub](YOUR_GEMINI_PROJECT_LINK)
-
----
-
-## 🌉 ShobBridge AI
-
-### AI-Based Campus Recruitment Management System
-
-AI-powered platform that analyzes resumes, detects skill gaps,
-creates personalized learning roadmaps, and provides AI mock interviews.
-
-**Tech:**  
-`Java` `Spring Boot` `React` `MongoDB` `REST API` `Google OAuth`
-
-[View on GitHub](YOUR_SHOBBRIDGE_LINK)
-
----
-
-## 🏏 IPL Match Data Analysis
-
-Statistical analysis of IPL datasets revealing team dominance,
-player performance, and match trends.
-
-**Tech:**  
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
-
-[View on GitHub](YOUR_IPL_PROJECT_LINK)
-
----
-
-## 🎮 QuizzyQuest — Quiz Game
-
-Timed Java quiz game built using clean OOP architecture with
-exception handling and file-based data management.
-
-**Tech:**  
-`Java` `OOP` `File I/O`
-
-[View on GitHub](YOUR_QUIZZYQUEST_LINK)
-
----
-
-## 💼 AI Job Extractor
-
-LLM-powered pipeline that extracts structured job information including
-role, skills, and location from job listings.
-
-**Tech:**  
-`Python` `LLM` `Web Scraping` `JSON`
-
-[View on GitHub](YOUR_JOB_EXTRACTOR_LINK)
-
+- **AI Docker Health Dashboard** — Natural-language Docker monitoring with real-time container health insights.
+- **Gemini Voice Chatbot** — Voice-based AI assistant powered by Gemini.
+- **ShobBridge AI** — AI-powered campus recruitment and skill-gap analysis system.
+- **IPL Match Data Analysis** — Data-driven analysis of IPL team and player performance.
+- **QuizzyQuest** — Java-based timed quiz game using OOP and file handling.
+- **AI Job Extractor** — LLM-powered job listing extraction and structured data processing.
 ---
 
 # 📚 Workshops
@@ -260,38 +96,6 @@ and search ranking fundamentals.
 | Design Thinking | Coursera |
 | Excel | Microsoft |
 | SQL vs NoSQL | LinkedIn Learning |
-
----
-
-# 💡 Strengths
-
-### 🧠 Analytical Thinking
-Breaking complex problems into clear, testable pieces.
-
-### 🧩 Problem Solving
-Finding practical solutions and shipping them end to end.
-
-### 🤝 Team Collaboration
-Communicating clearly and moving effectively with a team.
-
-### 🚀 Adaptability
-Picking up new tools and domains quickly and confidently.
-
----
-
-# 🏆 Achievements
-
-🏆 **Student of the Year — 2020**  
-Recognized for academic and extracurricular excellence.
-
-🥋 **Black Belt in Karate**  
-Discipline, focus, and years of consistent practice.
-
-⚽ **Goal Keeper Award — Football**  
-Recognized for standout performance as goalkeeper.
-
-💡 **Hackathon Participant**  
-Built and shipped solutions under pressure with cross-functional teams.
 
 ---
 
